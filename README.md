@@ -30,8 +30,8 @@
 <br/>
 
 <a href="https://github.com/dmnkb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmnkb&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmnkb&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmnkb&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmnkb&theme=dark&layout=compact" />
 </a>
 
 <br/>
