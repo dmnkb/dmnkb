@@ -26,20 +26,9 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
 
-<br/>
-
-<a href="https://github.com/dmnkb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmnkb&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmnkb&theme=dark&layout=compact" />
-</a>
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
 <a href="https://www.linkedin.com/in/dominik-borchert-938550213/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dominik%20Borchert-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://dribbble.com/DominikBorchert" target="_blank"><img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-Dominik%20Borchert-blue?style=flat-square&logo=dribbble"></a>
 <a href="https://www.instagram.com/dmnkb/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-dmnkb-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:dev@borchert.me"><img alt="Email" src="https://img.shields.io/badge/Email-dev@borchert.me-blue?style=flat-square&logo=gmail"></a>
-</p>
